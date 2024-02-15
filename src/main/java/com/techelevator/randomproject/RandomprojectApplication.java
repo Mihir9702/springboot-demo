@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RandomprojectApplication {
+public class RandomProjectApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RandomprojectApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(RandomProjectApplication.class, args);
+  }
 }
